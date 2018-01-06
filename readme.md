@@ -6,4 +6,5 @@ Requirement:
     
     adb
 
-![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
+![image](https://github.com/WangZesen/Wechat-Jump-Game/blob/master/sample1.jpg)
+![image](https://github.com/WangZesen/Wechat-Jump-Game/blob/master/sample2.jpg)
